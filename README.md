@@ -1,4 +1,5 @@
 Change to readme file
+Add Setup
 
 # React + TypeScript + Vite
 
